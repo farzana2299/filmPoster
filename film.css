@@ -1,0 +1,54 @@
+.c{
+    height: 50px;
+    background-color: brown;
+    color: white;
+}
+body{
+    background-image: url("./images/film2.jpg");
+    background-size:cover ;
+}
+.c1{
+    width: 300px;
+    height:500px ;
+    border-color: white;
+    border: solid 2px;
+    margin-top: 32px;
+    background-color: silver;
+    border-radius: 5px;
+    position: relative;
+    left: 50px;
+}
+img{
+    padding-left: 0px;
+    padding-top: 0px;
+    height: 300px;
+    width: 300px;
+    border-radius: 5px;
+}
+h2{
+   color: red;
+}
+.c2{
+    width: 85px;
+    height: 21px;
+    border: solid blue 2px;
+    left: 100px;
+    color: white;
+    background-color: blue;
+    border-radius: 8px;
+}
+.c3{
+    position: absolute;
+    top: 74px;
+    left: 392px;
+}
+.c4{
+    position: absolute;
+    top: 74px;
+    left: 728px;
+}
+.c5{
+    position: absolute;
+    top: 74px;
+    left: 1061px;
+}
